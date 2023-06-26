@@ -1,6 +1,6 @@
 TARGET = game.out
 OBJECT_DIR = bin
-SOURCE_DIR = src
+SOURCE_DIR = .
 
 CXX=g++
 LD=g++
